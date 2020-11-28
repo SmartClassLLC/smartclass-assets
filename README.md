@@ -1,0 +1,4 @@
+SmartClass Assets
+
+- img
+- images
